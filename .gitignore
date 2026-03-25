@@ -7,6 +7,10 @@ Build/
 Builds/
 UserSettings/
 
+# Allow WebGL build for GitHub Pages
+!docs/**/Build/
+!docs/**/Build/**
+
 # OS
 .DS_Store
 Thumbs.db
