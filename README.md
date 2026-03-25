@@ -37,6 +37,24 @@ When you start a new game, a how-to-play screen will appear. The first enemy wav
 
 ---
 
+## Screenshots
+
+### Menu
+![Menu](Assets/Screenshots/Menu.png)
+
+### Gameplay
+![Gameplay 1](Assets/Screenshots/Gameplay%201.png)
+![Gameplay 2](Assets/Screenshots/Gameplay%202.png)
+
+### Boss Fight
+![Boss Fight](Assets/Screenshots/Boss%20Fight.png)
+
+### Game Over & Win
+![Game Over](Assets/Screenshots/Game%20Over.png)
+![You Won](Assets/Screenshots/You%20Won.png)
+
+---
+
 ## Built With
 
 - [Unity](https://unity.com/)
