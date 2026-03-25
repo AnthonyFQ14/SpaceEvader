@@ -31,7 +31,7 @@ When you start a new game, a how-to-play screen will appear. The first enemy wav
 | Scene | Description |
 |---|---|
 | `Menu` | Main menu with New Game button |
-| `SampleScene` | Main gameplay |
+| `GameScene` | Main gameplay |
 | `GameOver` | Shown when all lives are lost |
 | `YouWin` | Shown after defeating the boss |
 
