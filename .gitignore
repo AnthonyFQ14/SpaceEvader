@@ -17,5 +17,3 @@ Thumbs.db
 *.suo
 *.user
 
-# Claude Code
-.claude/
