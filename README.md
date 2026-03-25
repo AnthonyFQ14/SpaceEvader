@@ -2,6 +2,8 @@
 
 A 2D space shooter built in Unity. Fight through waves of enemies, collect power-ups, and take down the final boss to survive.
 
+🎮 **[Play in browser](https://anthonyfq14.github.io/SpaceEvader/spaceEvaderWebGL/)**
+
 ---
 
 ## Gameplay
