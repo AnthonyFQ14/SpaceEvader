@@ -109,6 +109,15 @@
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
+          document.addEventListener("fullscreenchange", () => {
+            if (document.fullscreenElement) {
+              canvas.style.width = "100vw";
+              canvas.style.height = "100vh";
+            } else {
+              canvas.style.width = "100vw";
+              canvas.style.height = "calc(100vh - 38px)";
+            }
+          });
         }).catch((message) => {
           alert(message);
         });
